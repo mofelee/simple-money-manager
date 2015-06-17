@@ -1,0 +1,16 @@
+{
+  "generator-angular-meteor": {
+    "filters": {
+      "coffee": true,
+      "jade": true,
+      "stylus": true,
+      "pagination": true,
+      "framework": "bootstrap",
+      "bower": true,
+      "auth": true,
+      "oauth": true,
+      "twitterAuth": true
+    },
+    "appname": "smm"
+  }
+}
